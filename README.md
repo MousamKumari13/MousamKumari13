@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Mousam Kumari</h1>
 <h3 align="center">A passionate frontend developer and code Debugger</h3>
 
