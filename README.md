@@ -18,8 +18,8 @@
 <a href="https://www.codechef.com/users/memousamkumari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="memousamkumari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mousamkumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mousamkumari" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/memousamqs4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="memousamqs4r" height="30" width="40" /></a>
-  <a href="[https://www.codingninjas.com/profile/your_profile_link](https://www.naukri.com/code360/profile/da658b95-05ed-4d72-838f-7aaf4644e17a)" target="_blank" rel="noreferrer"> 
-    <img src="https://files.codingninjas.in/cn-logo-dark-9824.svg" alt="coding ninjas" width="40" height="40"/> 
+ <a href="https://www.naukri.com/code360/profile/da658b95-05ed-4d72-838f-7aaf4644e17a" target="blank">
+    <img align="center" src="https://files.codingninjas.in/cn-logo-dark-9824.svg" alt="coding ninjas" height="30" width="40" />
   </a>
 </p>
 
